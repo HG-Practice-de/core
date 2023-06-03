@@ -1,0 +1,3 @@
+name: Core
+main: de.hg_practice.core.Core
+version: '${project.version}'
